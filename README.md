@@ -4,9 +4,15 @@ Este repositório contém os materiais de apoio aos palestrantes da [Comunidade 
 
 ## Estrutura
 
-+ **Contribuindo_com_a_Mozilla** : Apresentação
+### Palestras
 
-+ **Introducing_Firefox_OS** : Apresentação
++ **Contribuindo com a Mozilla** por [Luigui Delyer](https://github.com/s1xtec/palestras/tree/master/Contribuindo_com_a_Mozilla)
+
++ **Introducing Firefox OS** por [Luigui Delyer](https://github.com/s1xtec/palestras/tree/master/Introducing_Firefox_OS)
+
++ **Envolva-se** por [Melissa Devens](https://github.com/melissacd/Talk-Envolva-se)
+
+### Identidade Visual
 
 + **mozilla-styleguide** : Diretório contendo
 
@@ -29,7 +35,6 @@ Este repositório contém os materiais de apoio aos palestrantes da [Comunidade 
 
 * [Mozilla Style Guide](https://www.mozilla.org/en-US/styleguide/)
 * [reveal.js](https://github.com/hakimel/reveal.js/)
-* Ideia original [s1xtec](https://github.com/s1xtec/palestras)
 
 ## Licença
 
